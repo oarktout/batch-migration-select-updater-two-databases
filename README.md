@@ -1,4 +1,4 @@
-#BATCH MIGRATION SELECT UPDATER TWO DATABASE
+# BATCH MIGRATION SELECT UPDATER TWO DATABASE
 ## Principle
 Migration of data based on select query executed in database Source and injected in database Destination with Table name indicated, columns are generated based on the select and data from the select too.
 So the data structure in Destination database is based on the select to read from Source database.
@@ -22,3 +22,9 @@ In this project , I used some environment variables :
 
 - TABLE_NAME : Table name in destination database  to fill with select data.
 - SELECT_QUERY : Select query to read data from source database.
+
+## License
+Software licensed with GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 (see LICENSE.txt)
+
+## Contact
+Don't hesitate if any questions or suggestions to send me a mail in : jiko_95@live.be (Mail created just for that and Belgium youhou :D)
