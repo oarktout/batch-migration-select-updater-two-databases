@@ -1,5 +1,6 @@
 # BATCH MIGRATION SELECT UPDATER TWO DATABASE
 ## Principle
+
 Migration of data based on select query executed in database Source and injected in database Destination with Table name indicated, columns are generated based on the select and data from the select too.
 So the data structure in Destination database is based on the select to read from Source database.
 
@@ -8,6 +9,7 @@ Source corresponding where I go to search data.
 Destination corresponding where I go to write data. 
 
 ## Environment variables
+
 In this project , I used some environment variables : 
 
 - DATABASE_SOURCE_URL : URL for the source database.
@@ -23,10 +25,16 @@ In this project , I used some environment variables :
 - TABLE_NAME : Table name in destination database  to fill with select data.
 - SELECT_QUERY : Select query to read data from source database.
 
+## Java
+
+Software Developped in Java 11 LTS in september 2021.
+
 ## License
+
 Software licensed with GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 (see LICENSE.txt)
 
 ## Contact
-Don't hesitate if any questions or suggestions to ask me on twitter : oth_fjk :D
+
+Don't hesitate if any questions or suggestions to ask me on twitter : oth_fjk
 
 Enjoy !
