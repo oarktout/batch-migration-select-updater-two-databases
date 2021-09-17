@@ -25,6 +25,10 @@ In this project , I used some environment variables :
 - TABLE_NAME : Table name in destination database  to fill with select data.
 - SELECT_QUERY : Select query to read data from source database.
 
+##WARNING
+Be sure you import the good dependecies for drivers of databases.
+For now the import it's only for Oracle, Postgres, MySQL and SQLServer.
+
 ## Java
 
 Software Developped in Java 11 LTS in september 2021.
