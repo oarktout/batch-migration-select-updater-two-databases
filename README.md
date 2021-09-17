@@ -26,7 +26,7 @@ In this project , I used some environment variables :
 - SELECT_QUERY : Select query to read data from source database.
 
 ##WARNING
-Be sure you import the good dependecies for drivers of databases.
+Be sure you import the good dependencies for drivers of databases.
 For now the import it's only for Oracle, Postgres, MySQL and SQLServer.
 
 ## Java
