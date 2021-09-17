@@ -27,4 +27,6 @@ In this project , I used some environment variables :
 Software licensed with GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 (see LICENSE.txt)
 
 ## Contact
-Don't hesitate if any questions or suggestions to send me a mail in : jiko_95@live.be (Mail created just for that and Belgium youhou :D)
+Don't hesitate if any questions or suggestions to ask me in twitter : oth_fjk :D
+
+Enjoy !
